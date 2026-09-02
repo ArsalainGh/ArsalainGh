@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Computer Science Student at ISIGK<br>🔭 I’m currently working on a linux guide for beginners<br>🌱 I’m currently learning RAG & Automation<br>💬 Don't ask me about anything<br>⚡ Fun fact ()
+🧠 Computer Science Student at ISIGK<br>🔭 I’m currently working on a community-driven library of courses<br>🌱 I’m currently learning RAG & Automation<br>💬 Don't ask me about anything<br>⚡ Fun fact ()
 
 
 ## 🌐 Socials:
